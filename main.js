@@ -21,7 +21,7 @@ const jpgs = [7, 8, 12, 13];
 
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple']
 
-const names = ['GODZILLA', ' MASTER CHEF', 'PE BOABA', 'SUPI', 'COIOASA', 'TOMATO', 'DEPRESSED', 'CAP DE OU', 'BOMBARDIERA', 'WIDE', 'ODOBASIAN', 'JUDGY', "MLEM", "SOBI", "HOT GIRL SUMMER", "THE RACIST"]
+const names = ['GODZILLA', ' MASTER CHEF', 'PE BOABA', 'SUPI', 'COIOASA', 'TOMATO', 'DEPRESSED', 'CAP DE OU', 'BOMBARDIERA', 'WIDE', 'ODOBASIAN', 'JUDGY', "MLEM", "SOBI", "HOT GIRL SUMMER", "THE IMPOSTOR"]
 
 const mprog = 60;
 
